@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\bin\Debug\lab1.exe
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\bin\Debug\lab1.pdb
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\obj\Debug\lab1.exe
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\obj\Debug\lab1.pdb
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\KPP\cs\lab1cs\lab1\obj\Debug\lab1.csproj.CopyComplete
